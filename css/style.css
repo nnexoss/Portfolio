@@ -912,7 +912,7 @@ Portfolio Popup
 }
 
 .pp-body .general-info li a {
-	text-transform: lowercase;
+	text-transform: none;
 	color: var(--main-color);
 }
 
